@@ -1,2 +1,19 @@
-# Movie_Project_Beginner
-The movie project we started to develop in the training given by Kodluyoruz. By using the project imdb API, you can bring the list of movies and save the movie you want to your favorite list.
+# imdb-movie-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
